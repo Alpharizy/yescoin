@@ -1,7 +1,3 @@
-# YESCOIN BOT 
-
-## LINK BOT: [Register Here](https://t.me/theYescoin_bot/Yescoin?startapp=7r2yfs)
-## TUTORIAL IN GROUP : [Join Here](https://t.me/sansxgroup)
 
 ## Features
 - Auto Clear Task
